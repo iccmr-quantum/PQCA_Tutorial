@@ -1,0 +1,12 @@
+These are the packages that are needed to be installed in order to run the tutorials.
+
+qiskit
+pqca
+drawSvgrandom
+music21
+musical_scales
+math
+ipywidgets
+midiutil
+
+
