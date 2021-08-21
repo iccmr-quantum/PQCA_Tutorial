@@ -2,7 +2,7 @@ These are the packages that are needed to be installed in order to run the tutor
 
 qiskit
 pqca
-drawSvgrandom
+drawSvg
 music21
 musical_scales
 math
