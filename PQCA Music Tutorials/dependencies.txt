@@ -9,4 +9,5 @@ math
 ipywidgets
 midiutil
 
-
+The music engraving software, LilyPond, needs to be installed:
+http://lilypond.org/
